@@ -1,0 +1,46 @@
+<configuration_item name="DSU" id="9161888414313649377" type="atom_nc_object" parent_id="9128632109113273016" package="com.telus.dsu.nc_objects" version="1.1">
+    <nc_object name="DSU" id="9161888414313649377" _type="Offering Category" _parent_name="Top Product" parent_id="9128632109113273016" order_number="0">
+        <object_type _type_name="Offering Category" id="9135351350113410784"/>
+        <object_class _type_name="Product Offering Component" id="7021759920013445069"/>
+        <project _obj_name="Offering Catalog" id="9128632109113273015"/>
+        <param _attr_name="Created By" attr_id="61" attr_access_type="0" priority="1">
+            <value value="x218129" show_order="1"/>
+        </param>
+        <param _attr_name="Created When" attr_id="62" attr_access_type="0" priority="1">
+            <date_value date_value="2021-11-03 20:17:13.0" show_order="1"/>
+        </param>
+        <param _attr_name="Modified By" attr_id="63" attr_access_type="0" priority="1">
+            <value value="x218129" show_order="1"/>
+        </param>
+        <param _attr_name="Modified When" attr_id="64" attr_access_type="0" priority="1">
+            <date_value date_value="2021-11-03 20:17:28.0" show_order="1"/>
+        </param>
+        <param _attr_name="First Time In Applet" attr_id="6072556040013963188" attr_access_type="0" priority="1">
+            <value value="1" show_order="1"/>
+        </param>
+        <param _attr_name="Status" attr_id="7021759771013444983" attr_access_type="0" priority="0">
+            <list_value _list_value="Planned" list_value_id="7021759771013444980" show_order="1"/>
+        </param>
+        <param _attr_name="Is Mandatory" attr_id="7021855902013445624" attr_access_type="0" priority="0">
+            <list_value _list_value="True" list_value_id="1" show_order="1"/>
+        </param>
+        <param _attr_name="Configurable" attr_id="9128405069013275773" attr_access_type="0" priority="0">
+            <list_value _list_value="No" list_value_id="5032957201013871254" show_order="1"/>
+        </param>
+        <param _attr_name="Select Entity Type" attr_id="9132086005513398910" attr_access_type="0" priority="0">
+            <list_value _list_value="Price" list_value_id="9132086005513398908" show_order="1"/>
+        </param>
+        <param _attr_name="Functional Group" attr_id="9145989834113650562" attr_access_type="0" priority="0">
+            <list_value _list_value="Navigational" list_value_id="9145989834113650567" show_order="1"/>
+        </param>
+        <param _attr_name="Re-Contracting Window" attr_id="9149950326313166188" attr_access_type="0" priority="0">
+            <value value="90" show_order="1"/>
+        </param>
+        <param _attr_name="Trial Period for Commitment" attr_id="9149950539013166198" attr_access_type="0" priority="0">
+            <value value="30" show_order="1"/>
+        </param>
+        <param _attr_name="Filtration Type" attr_id="9150298510513612808" attr_access_type="0" priority="0">
+            <list_value _list_value="Ignore" list_value_id="9150298510513612817" show_order="1"/>
+        </param>
+    </nc_object>
+</configuration_item>
