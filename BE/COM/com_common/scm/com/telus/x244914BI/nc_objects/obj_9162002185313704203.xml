@@ -1,0 +1,60 @@
+<configuration_item name="CR x244914" id="9162002185313704203" type="change_request_object" parent_id="9137288153213290331" package="com.telus.x244914BI.nc_objects" version="1.1">
+    <nc_object name="CR x244914" id="9162002185313704203" _type="Change Request" _parent_name="System Configuration" parent_id="9137288153213290331" order_number="1178">
+        <object_type _type_name="Change Request" id="9137167165313293943"/>
+        <object_class _type_name="Change Request" id="9137167165313293943"/>
+        <project _obj_name="Solution Configuration Management Project" id="9128913200013967604"/>
+        <param _attr_name="Created By" attr_id="61" attr_access_type="0" priority="1">
+            <value value="x244914" show_order="1"/>
+        </param>
+        <param _attr_name="Created When" attr_id="62" attr_access_type="0" priority="1">
+            <date_value date_value="2021-11-16 23:56:20.0" show_order="1"/>
+        </param>
+        <param _attr_name="Modified By" attr_id="63" attr_access_type="0" priority="1">
+            <value value="x244914" show_order="1"/>
+        </param>
+        <param _attr_name="Modified When" attr_id="64" attr_access_type="0" priority="1">
+            <date_value date_value="2021-11-17 00:10:27.0" show_order="1"/>
+        </param>
+        <param _attr_name="First Time In Applet" attr_id="6072556040013963188" attr_access_type="0" priority="1">
+            <value value="1" show_order="1"/>
+        </param>
+        <param _attr_name="Status" attr_id="9137574413613306455" attr_access_type="0" priority="1">
+            <list_value _list_value="Developed" list_value_id="9137574413613306460" show_order="1"/>
+        </param>
+        <param _attr_name="DB Tracking" attr_id="9137589417613307957" attr_access_type="0" priority="0">
+            <list_value _list_value="No" list_value_id="9131586290013217398" show_order="1"/>
+        </param>
+        <param _attr_name="Detailed" attr_id="9137589417613307972" attr_access_type="0" priority="0">
+            <list_value _list_value="No" list_value_id="9131586290013217398" show_order="1"/>
+        </param>
+        <param _attr_name="Default" attr_id="9137623854913314422" attr_access_type="0" priority="0">
+            <list_value _list_value="No" list_value_id="9131586290013217398" show_order="1"/>
+        </param>
+        <param _attr_name="Priority" attr_id="9137693929913468931" attr_access_type="0" priority="1">
+            <list_value _list_value="Normal" list_value_id="9137693929913468937" show_order="1"/>
+        </param>
+        <param _attr_name="Export Type" attr_id="9140052410313166073" attr_access_type="0" priority="0">
+            <list_value _list_value="Actual" list_value_id="9140035823113145537" show_order="1"/>
+        </param>
+        <database_modifications>
+            <modification modif_id="63526" activity_id="9162002185313704203" ci_name="DSU x244914 Bussines Internet  Specification" ci_table_name="NC_OBJECT_TYPES" operation="CM   " ts="2021-11-17 00:02:23.0" hidden="0" last_export_ts="2021-11-17 00:10:28.570239" hier_parent="0">9161889166813649881</modification>
+            <modification modif_id="63527" activity_id="9162002185313704203" ci_name="DSU x244914 Bussines Internet  Instance" ci_table_name="NC_OBJECT_TYPES" operation="CM   " ts="2021-11-17 00:02:23.0" hidden="0" last_export_ts="2021-11-17 00:10:28.570239" hier_parent="0">9161889166813649882</modification>
+            <modification modif_id="63528" activity_id="9162002185313704203" ci_name="DSU x244914 Bussines Internet  New\Modify Order" ci_table_name="NC_OBJECT_TYPES" operation="CM   " ts="2021-11-17 00:02:23.0" hidden="0" last_export_ts="2021-11-17 00:10:28.570239" hier_parent="0">9161889166813649885</modification>
+            <modification modif_id="63529" activity_id="9162002185313704203" ci_name="DSU x244914 Bussines Internet  Suspend Order" ci_table_name="NC_OBJECT_TYPES" operation="CM   " ts="2021-11-17 00:02:23.0" hidden="0" last_export_ts="2021-11-17 00:10:28.570239" hier_parent="0">9161889166813649887</modification>
+            <modification modif_id="63530" activity_id="9162002185313704203" ci_name="DSU x244914 Bussines Internet  Restore Order" ci_table_name="NC_OBJECT_TYPES" operation="CM   " ts="2021-11-17 00:02:23.0" hidden="0" last_export_ts="2021-11-17 00:10:28.570239" hier_parent="0">9161889166813649889</modification>
+            <modification modif_id="63531" activity_id="9162002185313704203" ci_name="DSU x244914 Bussines Internet  Disconnect Order" ci_table_name="NC_OBJECT_TYPES" operation="CM   " ts="2021-11-17 00:02:23.0" hidden="0" last_export_ts="2021-11-17 00:10:28.570239" hier_parent="0">9161889166813649891</modification>
+            <modification modif_id="63532" activity_id="9162002185313704203" ci_name="DSU x244914 Bussines Internet  Cancel Order" ci_table_name="NC_OBJECT_TYPES" operation="CM   " ts="2021-11-17 00:02:23.0" hidden="0" last_export_ts="2021-11-17 00:10:28.570239" hier_parent="0">9161889166813649893</modification>
+            <modification modif_id="63533" activity_id="9162002185313704203" ci_name="DSU x244914 Bussines Internet  Specification Meta Type" ci_table_name="NC_OBJECTS" operation="CM   " ts="2021-11-17 00:10:10.0" hidden="0" last_export_ts="2021-11-17 00:10:28.570239" hier_parent="0">9161889166813649883</modification>
+            <modification modif_id="63534" activity_id="9162002185313704203" ci_name="DSU x244914 Bussines Internet  Instance Meta Type" ci_table_name="NC_OBJECTS" operation="CM   " ts="2021-11-17 00:10:10.0" hidden="0" last_export_ts="2021-11-17 00:10:28.570239" hier_parent="0">9161889166813649884</modification>
+            <modification modif_id="63535" activity_id="9162002185313704203" ci_name="DSU x244914 Bussines Internet  New\Modify Order Meta Type" ci_table_name="NC_OBJECTS" operation="CM   " ts="2021-11-17 00:10:10.0" hidden="0" last_export_ts="2021-11-17 00:10:28.570239" hier_parent="0">9161889166813649886</modification>
+            <modification modif_id="63536" activity_id="9162002185313704203" ci_name="DSU x244914 Bussines Internet  Suspend Order Meta Type" ci_table_name="NC_OBJECTS" operation="CM   " ts="2021-11-17 00:10:10.0" hidden="0" last_export_ts="2021-11-17 00:10:28.570239" hier_parent="0">9161889166813649888</modification>
+            <modification modif_id="63537" activity_id="9162002185313704203" ci_name="DSU x244914 Bussines Internet  Restore Order Meta Type" ci_table_name="NC_OBJECTS" operation="CM   " ts="2021-11-17 00:10:10.0" hidden="0" last_export_ts="2021-11-17 00:10:28.570239" hier_parent="0">9161889166813649890</modification>
+            <modification modif_id="63538" activity_id="9162002185313704203" ci_name="DSU x244914 Bussines Internet  Disconnect Order Meta Type" ci_table_name="NC_OBJECTS" operation="CM   " ts="2021-11-17 00:10:10.0" hidden="0" last_export_ts="2021-11-17 00:10:28.570239" hier_parent="0">9161889166813649892</modification>
+            <modification modif_id="63539" activity_id="9162002185313704203" ci_name="DSU x244914 Bussines Internet  Cancel Order Meta Type" ci_table_name="NC_OBJECTS" operation="CM   " ts="2021-11-17 00:10:10.0" hidden="0" last_export_ts="2021-11-17 00:10:28.570239" hier_parent="0">9161889166813649894</modification>
+            <modification modif_id="63540" activity_id="9162002185313704203" ci_name="DSU x244914 Bussines Internet " ci_table_name="NC_OBJECTS" operation="CM   " ts="2021-11-17 00:10:10.0" hidden="0" last_export_ts="2021-11-17 00:10:28.570239" hier_parent="0">9161889166813649895</modification>
+            <modification modif_id="63541" activity_id="9162002185313704203" ci_name="DSU x244914 Bussines Internet - 1Gbps" ci_table_name="NC_OBJECTS" operation="CM   " ts="2021-11-17 00:10:10.0" hidden="0" last_export_ts="2021-11-17 00:10:28.570239" hier_parent="0">9161889166813649904</modification>
+            <modification modif_id="63542" activity_id="9162002185313704203" ci_name="DSU to DSU x244914 Bussines Internet - 1Gbps" ci_table_name="NC_OBJECTS" operation="CM   " ts="2021-11-17 00:10:10.0" hidden="0" last_export_ts="2021-11-17 00:10:28.570239" hier_parent="0">9161889166813649905</modification>
+            <modification modif_id="63543" activity_id="9162002185313704203" ci_name="ico_product_template.gif" ci_table_name="NC_PICTURES" operation="A    " ts="2021-11-17 00:10:28.561853" hidden="0" last_export_ts="2021-11-17 00:10:28.570239">9133639662213078948</modification>
+        </database_modifications>
+    </nc_object>
+</configuration_item>

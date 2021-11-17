@@ -1,0 +1,7 @@
+<configuration_item name="DSU x244914 Bussines Internet  Disconnect Order" id="9161889166813649891" type="nc_grants">
+    <nc_grants _entity_name="DSU x244914 Bussines Internet  Disconnect Order" id="9161889166813649891" _entity_type="nc_object_type">
+        <role _role_name="Back Office" id="9136053950013359197">
+            <W/>
+        </role>
+    </nc_grants>
+</configuration_item>

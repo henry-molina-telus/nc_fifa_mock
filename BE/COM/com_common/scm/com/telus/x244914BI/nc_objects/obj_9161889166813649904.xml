@@ -1,0 +1,85 @@
+<configuration_item name="DSU x244914 Bussines Internet - 1Gbps" id="9161889166813649904" type="atom_nc_object" parent_id="9128632109113273016" package="com.telus.x244914BI.nc_objects" version="1.1">
+    <nc_object name="DSU x244914 Bussines Internet - 1Gbps" id="9161889166813649904" _type="Product Offering" _parent_name="Top Product" parent_id="9128632109113273016" order_number="0">
+        <object_type _type_name="Product Offering" id="9125737315713245976"/>
+        <object_class _type_name="Product Offering" id="9125737315713245976"/>
+        <project _obj_name="Offering Catalog" id="9128632109113273015"/>
+        <param _attr_name="Created By" attr_id="61" attr_access_type="0" priority="1">
+            <value value="x244914" show_order="1"/>
+        </param>
+        <param _attr_name="Created When" attr_id="62" attr_access_type="0" priority="1">
+            <date_value date_value="2021-11-03 22:13:19.0" show_order="1"/>
+        </param>
+        <param _attr_name="Modified By" attr_id="63" attr_access_type="0" priority="1">
+            <value value="x244914" show_order="1"/>
+        </param>
+        <param _attr_name="Modified When" attr_id="64" attr_access_type="0" priority="1">
+            <date_value date_value="2021-11-03 22:15:41.0" show_order="1"/>
+        </param>
+        <param _attr_name="First Time In Applet" attr_id="6072556040013963188" attr_access_type="0" priority="1">
+            <value value="1" show_order="1"/>
+        </param>
+        <param _attr_name="Status" attr_id="7021759771013444983" attr_access_type="0" priority="1">
+            <list_value _list_value="Planned" list_value_id="7021759771013444980" show_order="1"/>
+        </param>
+        <param _attr_name="Is Mandatory" attr_id="7021855902013445624" attr_access_type="0" priority="0">
+            <list_value _list_value="True" list_value_id="1" show_order="1"/>
+        </param>
+        <param _attr_name="Status" attr_id="9072340651013063296" attr_access_type="0" priority="0">
+            <list_value _list_value="Active" list_value_id="9072340651013063294" show_order="1"/>
+        </param>
+        <param _attr_name="Configurable" attr_id="9128405069013275773" attr_access_type="0" priority="0">
+            <list_value _list_value="No" list_value_id="5032957201013871254" show_order="1"/>
+        </param>
+        <param _attr_name="Select Entity Type" attr_id="9132086005513398910" attr_access_type="0" priority="0">
+            <list_value _list_value="Price" list_value_id="9132086005513398908" show_order="1"/>
+        </param>
+        <param _attr_name="Occurrence" attr_id="9132208363413897051" attr_access_type="0" priority="0">
+            <list_value _list_value="False" list_value_id="8082160850013826948" show_order="1"/>
+        </param>
+        <param _attr_name="Is Top Offer?" attr_id="9132546680213236681" attr_access_type="0" priority="0">
+            <list_value _list_value="Yes" list_value_id="7777001" show_order="1"/>
+        </param>
+        <param _attr_name="Order Item Name Mask(SpEL)" attr_id="9132926165013576678" attr_access_type="0" priority="0">
+            <value value="['9125737315713245971'].getValue().getName()+'&#10;                    #'+['4111244729013810062'].getStringValue()&#10;                " show_order="1"/>
+        </param>
+        <param _attr_name="Busines Product Instance Name Mask(SpEL)" attr_id="9132968413413605305" attr_access_type="0" priority="0">
+            <value value="['9125737315713245971'].getValue().getName()+' #'+['4111244729013810062'].getStringValue()" show_order="1"/>
+        </param>
+        <param _attr_name="Visible in SSP" attr_id="9137227580413585177" attr_access_type="0" priority="0">
+            <list_value _list_value="Yes" list_value_id="7777001" show_order="1"/>
+        </param>
+        <param _attr_name="Order Number" attr_id="9138776009413365171" attr_access_type="0" priority="0">
+            <value value="1000" show_order="1"/>
+        </param>
+        <param _attr_name="Shippable" attr_id="9143746509113363501" attr_access_type="0" priority="0">
+            <list_value _list_value="No" list_value_id="9143746509113363512" show_order="1"/>
+        </param>
+        <param _attr_name="Bookable" attr_id="9145082706913812624" attr_access_type="0" priority="0">
+            <list_value _list_value="No" list_value_id="9143746509113363512" show_order="1"/>
+        </param>
+        <param _attr_name="Show on Customer Facing Materials" attr_id="9146045305513920736" attr_access_type="0" priority="0">
+            <list_value _list_value="Yes" list_value_id="7777001" show_order="1"/>
+        </param>
+        <param _attr_name="Reliable Asset" attr_id="9147256070013010946" attr_access_type="0" priority="0">
+            <list_value _list_value="Yes" list_value_id="7777001" show_order="1"/>
+        </param>
+        <param _attr_name="One Time Service" attr_id="9147256070013010959" attr_access_type="0" priority="0">
+            <list_value _list_value="No" list_value_id="7777002" show_order="1"/>
+        </param>
+        <param _attr_name="Recurring Promotion Stackability" attr_id="9152394981313998215" attr_access_type="0" priority="0">
+            <list_value _list_value="Non-Stackable" list_value_id="9152395361513998321" show_order="1"/>
+        </param>
+        <param _attr_name="Visible in TD" attr_id="9157966176413881840" attr_access_type="0" priority="0">
+            <list_value _list_value="Yes" list_value_id="7777001" show_order="1"/>
+        </param>
+        <param _attr_name="Product Specification" attr_id="9127489253813157273" attr_access_type="0" priority="1">
+            <reference _obj_name="DSU x244914 Bussines Internet " reference="9161889166813649895" show_order="1"/>
+        </param>
+        <param _attr_name="Market" attr_id="9132199382713895166" attr_access_type="0" priority="1">
+            <reference _obj_name="Canada" reference="9135288126613451049" show_order="1"/>
+        </param>
+        <param _attr_name="Customer Category" attr_id="9132199382713895167" attr_access_type="0" priority="1">
+            <reference _obj_name="Business Customers" reference="9141752080013288574" show_order="1"/>
+        </param>
+    </nc_object>
+</configuration_item>

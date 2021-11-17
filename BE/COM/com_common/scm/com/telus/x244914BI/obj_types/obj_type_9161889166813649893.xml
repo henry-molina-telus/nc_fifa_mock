@@ -1,0 +1,12 @@
+<configuration_item name="DSU x244914 Bussines Internet  Cancel Order" id="9161889166813649893" type="nc_object_type" parent_id="9121059404013834733" package="com.telus.x244914BI.obj_types" version="1.1">
+    <nc_object_types name="DSU x244914 Bussines Internet  Cancel Order" id="9161889166813649893" parent_name="Cancel Supplement Product Order" parent_id="9121059404013834733">
+        <isclass flags="0"/>
+        <issystem flags="0"/>
+        <issearchable flags="1"/>
+        <isabstract flags="0"/>
+        <flags/>
+        <properties>
+            <property name="mask" value="mask=attribute:4070151035013004787"/>
+        </properties>
+    </nc_object_types>
+</configuration_item>

@@ -1,0 +1,28 @@
+<configuration_item name="DSU x244914 Bussines Internet  New\Modify Order Meta Type" id="9161889166813649886" type="atom_nc_object" parent_id="9122030603013839999" package="com.telus.x244914BI.nc_objects" version="1.1">
+    <nc_object name="DSU x244914 Bussines Internet  New\Modify Order Meta Type" id="9161889166813649886" _type="New/Modify Order Type" _parent_name="New/Modify Product Order Type" parent_id="9122030603013839999" order_number="0">
+        <object_type _type_name="New/Modify Order Type" id="4093072471013253238"/>
+        <object_class _type_name="Type" id="4092877168013210902"/>
+        <project _obj_name="MetaModel" id="4092877976013210970"/>
+        <param _attr_name="Created By" attr_id="61" attr_access_type="0" priority="1">
+            <value value="x244914" show_order="1"/>
+        </param>
+        <param _attr_name="Created When" attr_id="62" attr_access_type="0" priority="1">
+            <date_value date_value="2021-11-03 22:10:18.0" show_order="1"/>
+        </param>
+        <param _attr_name="Modified By" attr_id="63" attr_access_type="0" priority="1">
+            <value value="x244914" show_order="1"/>
+        </param>
+        <param _attr_name="Modified When" attr_id="64" attr_access_type="0" priority="1">
+            <date_value date_value="2021-11-03 22:10:18.0" show_order="1"/>
+        </param>
+        <param _attr_name="ObjectTypeID" attr_id="4100137113013253246" attr_access_type="0" priority="0">
+            <value value="9161889166813649885" show_order="1"/>
+        </param>
+        <param _attr_name="First Time In Applet" attr_id="6072556040013963188" attr_access_type="0" priority="1">
+            <value value="1" show_order="1"/>
+        </param>
+        <param _attr_name="Instance Type" attr_id="4093072469013253226" attr_access_type="0" priority="0">
+            <reference _obj_name="DSU x244914 Bussines Internet  Instance Meta Type" reference="9161889166813649884" show_order="1"/>
+        </param>
+    </nc_object>
+</configuration_item>
