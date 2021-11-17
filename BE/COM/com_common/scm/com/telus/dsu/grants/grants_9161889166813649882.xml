@@ -1,0 +1,14 @@
+<configuration_item name="DSU x244914 Bussines Internet  Instance" id="9161889166813649882" type="nc_grants">
+    <nc_grants _entity_name="DSU x244914 Bussines Internet  Instance" id="9161889166813649882" _entity_type="nc_object_type">
+        <role _role_name="Sales Support Operators" id="9132128810113867218">
+            <L/>
+            <R/>
+            <W/>
+            <D/>
+            <RG_DENY/>
+            <WG_DENY/>
+            <C/>
+            <OC/>
+        </role>
+    </nc_grants>
+</configuration_item>
