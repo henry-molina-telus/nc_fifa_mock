@@ -1,6 +1,6 @@
-<configuration_item name="DSU x244914 Bussines Internet  Suspend Order Meta Type" id="9161889166813649888" type="atom_nc_object" parent_id="9122030603013840000" package="com.telus.x244914BI.nc_objects" version="1.1">
-    <nc_object name="DSU x244914 Bussines Internet  Suspend Order Meta Type" id="9161889166813649888" _type="Suspend Order Type" _parent_name="Suspend Product Order Type" parent_id="9122030603013840000" order_number="0">
-        <object_type _type_name="Suspend Order Type" id="4111855328013081011"/>
+<configuration_item name="DSU x244914 Bussines Internet  Restore Order Meta Type" id="9161889166813649890" type="atom_nc_object" parent_id="9122030603013840003" package="com.telus.dsu.nc_objects" version="1.1">
+    <nc_object name="DSU x244914 Bussines Internet  Restore Order Meta Type" id="9161889166813649890" _type="Restore Order Type" _parent_name="Restore Product Order Type" parent_id="9122030603013840003" order_number="0">
+        <object_type _type_name="Restore Order Type" id="4111855328013081012"/>
         <object_class _type_name="Type" id="4092877168013210902"/>
         <project _obj_name="MetaModel" id="4092877976013210970"/>
         <param _attr_name="Created By" attr_id="61" attr_access_type="0" priority="1">
@@ -16,7 +16,7 @@
             <date_value date_value="2021-11-03 22:10:18.0" show_order="1"/>
         </param>
         <param _attr_name="ObjectTypeID" attr_id="4100137113013253246" attr_access_type="0" priority="0">
-            <value value="9161889166813649887" show_order="1"/>
+            <value value="9161889166813649889" show_order="1"/>
         </param>
         <param _attr_name="First Time In Applet" attr_id="6072556040013963188" attr_access_type="0" priority="1">
             <value value="1" show_order="1"/>

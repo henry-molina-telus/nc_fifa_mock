@@ -1,4 +1,4 @@
-<configuration_item name="DSU x244914 Bussines Internet " id="9161889166813649895" type="atom_nc_object" parent_id="9161888414313649376" package="com.telus.x244914BI.nc_objects" version="1.1">
+<configuration_item name="DSU x244914 Bussines Internet " id="9161889166813649895" type="atom_nc_object" parent_id="9161888414313649376" package="com.telus.dsu.nc_objects" version="1.1">
     <nc_object name="DSU x244914 Bussines Internet " id="9161889166813649895" _type="DSU x244914 Bussines Internet  Specification" _parent_name="DSU" parent_id="9161888414313649376" order_number="0">
         <object_type _type_name="DSU x244914 Bussines Internet  Specification" id="9161889166813649881"/>
         <object_class _type_name="Product Template" id="9121537801013837119"/>
