@@ -1,0 +1,25 @@
+<configuration_item name="DSU x244511 Business Internet Specification Meta Type" id="9161905220313657593" type="atom_nc_object" parent_id="9122030603013840004" package="com.telus.dsu.nc_objects" version="1.1">
+    <nc_object name="DSU x244511 Business Internet Specification Meta Type" id="9161905220313657593" _type="Template Type" _parent_name="Product Type (OPF)" parent_id="9122030603013840004" order_number="0">
+        <object_type _type_name="Template Type" id="4093072468013253219"/>
+        <object_class _type_name="Type" id="4092877168013210902"/>
+        <project _obj_name="MetaModel" id="4092877976013210970"/>
+        <param _attr_name="Created By" attr_id="61" attr_access_type="0" priority="1">
+            <value value="x244511" show_order="1"/>
+        </param>
+        <param _attr_name="Created When" attr_id="62" attr_access_type="0" priority="1">
+            <date_value date_value="2021-11-05 18:51:26.0" show_order="1"/>
+        </param>
+        <param _attr_name="Modified By" attr_id="63" attr_access_type="0" priority="1">
+            <value value="x244511" show_order="1"/>
+        </param>
+        <param _attr_name="Modified When" attr_id="64" attr_access_type="0" priority="1">
+            <date_value date_value="2021-11-05 18:51:26.0" show_order="1"/>
+        </param>
+        <param _attr_name="ObjectTypeID" attr_id="4100137113013253246" attr_access_type="0" priority="0">
+            <value value="9161905220313657591" show_order="1"/>
+        </param>
+        <param _attr_name="First Time In Applet" attr_id="6072556040013963188" attr_access_type="0" priority="1">
+            <value value="1" show_order="1"/>
+        </param>
+    </nc_object>
+</configuration_item>
