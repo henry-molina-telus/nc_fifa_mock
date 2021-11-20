@@ -1,0 +1,50 @@
+<configuration_item name="CR x244512" id="9162028603313717144" type="change_request_object" parent_id="9137288153213290331" package="com.telus.dsu.nc_objects" version="1.1">
+    <nc_object name="CR x244512" id="9162028603313717144" _type="Change Request" _parent_name="System Configuration" parent_id="9137288153213290331" order_number="1182">
+        <object_type _type_name="Change Request" id="9137167165313293943"/>
+        <object_class _type_name="Change Request" id="9137167165313293943"/>
+        <project _obj_name="Solution Configuration Management Project" id="9128913200013967604"/>
+        <param _attr_name="Created By" attr_id="61" attr_access_type="0" priority="1">
+            <value value="x244512" show_order="1"/>
+        </param>
+        <param _attr_name="Created When" attr_id="62" attr_access_type="0" priority="1">
+            <date_value date_value="2021-11-20 01:35:04.0" show_order="1"/>
+        </param>
+        <param _attr_name="Modified By" attr_id="63" attr_access_type="0" priority="1">
+            <value value="x244512" show_order="1"/>
+        </param>
+        <param _attr_name="Modified When" attr_id="64" attr_access_type="0" priority="1">
+            <date_value date_value="2021-11-20 01:37:13.0" show_order="1"/>
+        </param>
+        <param _attr_name="First Time In Applet" attr_id="6072556040013963188" attr_access_type="0" priority="1">
+            <value value="1" show_order="1"/>
+        </param>
+        <param _attr_name="Status" attr_id="9137574413613306455" attr_access_type="0" priority="1">
+            <list_value _list_value="Developed" list_value_id="9137574413613306460" show_order="1"/>
+        </param>
+        <param _attr_name="DB Tracking" attr_id="9137589417613307957" attr_access_type="0" priority="0">
+            <list_value _list_value="No" list_value_id="9131586290013217398" show_order="1"/>
+        </param>
+        <param _attr_name="Detailed" attr_id="9137589417613307972" attr_access_type="0" priority="0">
+            <list_value _list_value="No" list_value_id="9131586290013217398" show_order="1"/>
+        </param>
+        <param _attr_name="Default" attr_id="9137623854913314422" attr_access_type="0" priority="0">
+            <list_value _list_value="No" list_value_id="9131586290013217398" show_order="1"/>
+        </param>
+        <param _attr_name="Priority" attr_id="9137693929913468931" attr_access_type="0" priority="1">
+            <list_value _list_value="Normal" list_value_id="9137693929913468937" show_order="1"/>
+        </param>
+        <param _attr_name="Export Type" attr_id="9140052410313166073" attr_access_type="0" priority="0">
+            <list_value _list_value="Actual" list_value_id="9140035823113145537" show_order="1"/>
+        </param>
+        <database_modifications>
+            <modification modif_id="63628" activity_id="9162028603313717144" ci_name="DSU-x24451-Business Internet  Specification" ci_table_name="NC_OBJECT_TYPES" operation="CM   " ts="2021-11-20 01:36:31.0" hidden="0" last_export_ts="2021-11-20 01:37:14.506566" hier_parent="0">9161905853313658005</modification>
+            <modification modif_id="63629" activity_id="9162028603313717144" ci_name="DSU-x24451-Business Internet  Instance" ci_table_name="NC_OBJECT_TYPES" operation="CM   " ts="2021-11-20 01:36:31.0" hidden="0" last_export_ts="2021-11-20 01:37:14.506566" hier_parent="0">9161905853313658006</modification>
+            <modification modif_id="63630" activity_id="9162028603313717144" ci_name="DSU-x24451-Business Internet  New\Modify Order" ci_table_name="NC_OBJECT_TYPES" operation="CM   " ts="2021-11-20 01:36:31.0" hidden="0" last_export_ts="2021-11-20 01:37:14.506566" hier_parent="0">9161905853313658009</modification>
+            <modification modif_id="63631" activity_id="9162028603313717144" ci_name="DSU-x24451-Business Internet  Suspend Order" ci_table_name="NC_OBJECT_TYPES" operation="CM   " ts="2021-11-20 01:36:31.0" hidden="0" last_export_ts="2021-11-20 01:37:14.506566" hier_parent="0">9161905853313658011</modification>
+            <modification modif_id="63632" activity_id="9162028603313717144" ci_name="DSU-x24451-Business Internet  Restore Order" ci_table_name="NC_OBJECT_TYPES" operation="CM   " ts="2021-11-20 01:36:31.0" hidden="0" last_export_ts="2021-11-20 01:37:14.506566" hier_parent="0">9161905853313658013</modification>
+            <modification modif_id="63633" activity_id="9162028603313717144" ci_name="DSU-x24451-Business Internet  Disconnect Order" ci_table_name="NC_OBJECT_TYPES" operation="CM   " ts="2021-11-20 01:36:31.0" hidden="0" last_export_ts="2021-11-20 01:37:14.506566" hier_parent="0">9161905853313658015</modification>
+            <modification modif_id="63634" activity_id="9162028603313717144" ci_name="DSU-x24451-Business Internet  Cancel Order" ci_table_name="NC_OBJECT_TYPES" operation="CM   " ts="2021-11-20 01:36:31.0" hidden="0" last_export_ts="2021-11-20 01:37:14.506566" hier_parent="0">9161905853313658017</modification>
+            <modification modif_id="63635" activity_id="9162028603313717144" ci_name="ico_product_template.gif" ci_table_name="NC_PICTURES" operation="A    " ts="2021-11-20 01:37:14.487812" hidden="0" last_export_ts="2021-11-20 01:37:14.506566">9133639662213078948</modification>
+        </database_modifications>
+    </nc_object>
+</configuration_item>
