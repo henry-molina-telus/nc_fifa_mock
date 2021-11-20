@@ -1,0 +1,12 @@
+<configuration_item name="DSU-x199243-Business Internet  Instance" id="9161888592813649464" type="nc_object_type" parent_id="9121537801013837118" package="com.telus.dsu.obj_types" version="1.1">
+    <nc_object_types name="DSU-x199243-Business Internet  Instance" id="9161888592813649464" parent_name="Product Instance" parent_id="9121537801013837118">
+        <isclass flags="0"/>
+        <issystem flags="0"/>
+        <issearchable flags="1"/>
+        <isabstract flags="0"/>
+        <flags/>
+        <properties>
+            <property name="mask" value="mask=attribute:4071242443013012258"/>
+        </properties>
+    </nc_object_types>
+</configuration_item>

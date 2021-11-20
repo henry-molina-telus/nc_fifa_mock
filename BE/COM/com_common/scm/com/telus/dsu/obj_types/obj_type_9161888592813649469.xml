@@ -1,0 +1,12 @@
+<configuration_item name="DSU-x199243-Business Internet  Suspend Order" id="9161888592813649469" type="nc_object_type" parent_id="9121059404013834730" package="com.telus.dsu.obj_types" version="1.1">
+    <nc_object_types name="DSU-x199243-Business Internet  Suspend Order" id="9161888592813649469" parent_name="Suspend Product Order" parent_id="9121059404013834730">
+        <isclass flags="0"/>
+        <issystem flags="0"/>
+        <issearchable flags="1"/>
+        <isabstract flags="0"/>
+        <flags/>
+        <properties>
+            <property name="mask" value="mask=attribute:4070151035013004787"/>
+        </properties>
+    </nc_object_types>
+</configuration_item>
