@@ -1,0 +1,43 @@
+<configuration_item name="DSU to DSU x244511 Business Internet - 1Gbps" id="9161905220313657618" type="atom_nc_object" parent_id="9128632109113273016" package="com.telus.dsu.nc_objects" version="1.1">
+    <nc_object name="DSU to DSU x244511 Business Internet - 1Gbps" id="9161905220313657618" _type="Offering Category Relationship" _parent_name="Top Product" parent_id="9128632109113273016" order_number="0">
+        <object_type _type_name="Offering Category Relationship" id="9135377944913415568"/>
+        <object_class _type_name="Offering Relationship" id="9135377944913415559"/>
+        <project _obj_name="Offering Catalog" id="9128632109113273015"/>
+        <param _attr_name="Created By" attr_id="61" attr_access_type="0" priority="1">
+            <value value="x244511" show_order="1"/>
+        </param>
+        <param _attr_name="Created When" attr_id="62" attr_access_type="0" priority="1">
+            <date_value date_value="2021-11-05 18:55:34.0" show_order="1"/>
+        </param>
+        <param _attr_name="Modified By" attr_id="63" attr_access_type="0" priority="1">
+            <value value="x244511" show_order="1"/>
+        </param>
+        <param _attr_name="Modified When" attr_id="64" attr_access_type="0" priority="1">
+            <date_value date_value="2021-11-05 19:05:44.0" show_order="1"/>
+        </param>
+        <param _attr_name="First Time In Applet" attr_id="6072556040013963188" attr_access_type="0" priority="1">
+            <value value="1" show_order="1"/>
+        </param>
+        <param _attr_name="Parent Min" attr_id="9125718672413237361" attr_access_type="0" priority="0">
+            <value value="0" show_order="1"/>
+        </param>
+        <param _attr_name="Parent Max" attr_id="9125718672413237363" attr_access_type="0" priority="0">
+            <value value="1" show_order="1"/>
+        </param>
+        <param _attr_name="Child Min" attr_id="9125718672413237366" attr_access_type="0" priority="0">
+            <value value="0" show_order="1"/>
+        </param>
+        <param _attr_name="Child Max" attr_id="9125718672413237367" attr_access_type="0" priority="0">
+            <value value="999" show_order="1"/>
+        </param>
+        <param _attr_name="Order Number" attr_id="9133114630213986486" attr_access_type="0" priority="1">
+            <value value="1" show_order="1"/>
+        </param>
+        <param _attr_name="Parent" attr_id="9135377944913415569" attr_access_type="0" priority="0">
+            <reference _obj_name="DSU" reference="9161888414313649377" show_order="1"/>
+        </param>
+        <param _attr_name="Child" attr_id="9135378710613415627" attr_access_type="0" priority="0">
+            <reference _obj_name="DSU x244511 Business Internet - 1Gbps" reference="9161905220313657617" show_order="1"/>
+        </param>
+    </nc_object>
+</configuration_item>
