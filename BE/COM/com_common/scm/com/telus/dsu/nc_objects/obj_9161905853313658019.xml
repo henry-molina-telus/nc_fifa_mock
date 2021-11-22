@@ -1,0 +1,31 @@
+<configuration_item name="DSU-x24451-Business Internet " id="9161905853313658019" type="atom_nc_object" parent_id="9161888414313649376" package="com.telus.dsu.nc_objects" version="1.1">
+    <nc_object name="DSU-x24451-Business Internet " id="9161905853313658019" _type="DSU-x24451-Business Internet  Specification" _parent_name="DSU" parent_id="9161888414313649376" order_number="0">
+        <object_type _type_name="DSU-x24451-Business Internet  Specification" id="9161905853313658005"/>
+        <object_class _type_name="Product Template" id="9121537801013837119"/>
+        <project _obj_name="Product Catalog" id="9124700698413852416"/>
+        <param _attr_name="Created By" attr_id="61" attr_access_type="0" priority="1">
+            <value value="x244512" show_order="1"/>
+        </param>
+        <param _attr_name="Created When" attr_id="62" attr_access_type="0" priority="1">
+            <date_value date_value="2021-11-05 20:41:59.0" show_order="1"/>
+        </param>
+        <param _attr_name="Modified By" attr_id="63" attr_access_type="0" priority="1">
+            <value value="x244512" show_order="1"/>
+        </param>
+        <param _attr_name="Modified When" attr_id="64" attr_access_type="0" priority="1">
+            <date_value date_value="2021-11-05 20:41:59.0" show_order="1"/>
+        </param>
+        <param _attr_name="Is Singleton" attr_id="4121048421013113093" attr_access_type="0" priority="0">
+            <list_value _list_value="NO" list_value_id="57" show_order="1"/>
+        </param>
+        <param _attr_name="Status" attr_id="5011458345013831727" attr_access_type="0" priority="1">
+            <list_value _list_value="Planned" list_value_id="5011458195013831725" show_order="1"/>
+        </param>
+        <param _attr_name="First Time In Applet" attr_id="6072556040013963188" attr_access_type="0" priority="1">
+            <value value="1" show_order="1"/>
+        </param>
+        <param _attr_name="Move Strategy" attr_id="9144412462613443622" attr_access_type="0" priority="0">
+            <list_value _list_value="Modify" list_value_id="9144412965313444149" show_order="1"/>
+        </param>
+    </nc_object>
+</configuration_item>
